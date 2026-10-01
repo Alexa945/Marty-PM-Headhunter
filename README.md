@@ -50,10 +50,3 @@ Principios: impacto en negocio y producto, resultados y no entregables, nunca in
 
 Para generar PDFs, la skill usa **Google Chrome** en modo headless (`scripts/html_to_pdf.py`).
 
-## Créditos
-
-La skill `cv-product-manager` está basada en la skill `cv-product-designer` de **Gema Gutiérrez Medina** ([tribUX](https://escuelatribux.com), [Píldoras UX](https://pildorasux.com)), publicada con licencia MIT, y adaptada a Product Management / Product Owner para el mercado remoto de LATAM, EE. UU. y Canadá.
-
-## Licencia
-
-MIT — ver [LICENSE](LICENSE).
